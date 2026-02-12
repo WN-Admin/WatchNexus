@@ -65,5 +65,5 @@ MIT License - see individual repositories for details.
 ## Support
 
 - [Documentation](./wn-docs)
-- [Discord Community](https://discord.gg/watchnexus)
-- [Kickstarter](https://kickstarter.com/watchnexus)
+- [Discord Community](https://discord.gg/bwfMBMuR)
+- [Kickstarter](https://www.kickstarter.com/projects/wn-aio/watchnexus-one-app-to-replace-your-entire-media-stack)
