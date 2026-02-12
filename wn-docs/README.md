@@ -9,7 +9,6 @@ Official documentation for WatchNexus media server.
 - [Theme Development](THEME-DEVELOPMENT-GUIDE.md)
 - [Gadgets Guide](GADGETS-GUIDE.md)
 - [API Reference](API-REFERENCE.md)
-- [Kickstarter Campaign](KICKSTARTER-CAMPAIGN.md)
 
 ## Contributing
 
