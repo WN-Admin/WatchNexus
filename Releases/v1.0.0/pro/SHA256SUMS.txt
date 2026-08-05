@@ -1,0 +1,4 @@
+ff7e6d87455228f63ee40e4398b57401d37401ae928c6b90116d377dc3c5a470  watchnexus-pro_1.0.0_amd64.deb
+b7efbb5428e882d0add9b7a3f8dbd3d9220c9e8287c1cbe8001d7e1fd86dc831  watchnexus-pro-1.0.0-1.x86_64.rpm
+440fbd26dbf393c53271cdeb00ea062e095a63f615066eac3f29a782407c778f  watchnexus-pro-1.0.0-1-x86_64.pkg.tar.zst
+48ebe1a0c9a76d3cbb9f3029d6b06086f23f79ed2b0ffa562f72948a09f4e4c8  watchnexus-pro-1.0.0-windows-x64.exe
