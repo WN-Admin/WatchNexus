@@ -1,0 +1,4 @@
+138c54b378de9e81fb154b82488f6a342e510b896550d0ce1c4da5efeec7389c  watchnexus-ultra_1.0.1_amd64.deb
+677d9650dc4341a1facec04c2006acf58e42d39a873774a18901fcf31171b357  watchnexus-ultra-1.0.1-1.x86_64.rpm
+5d9a8c723167f84ea9a35ad169194e027ca5a0fa0158027a52a5082f33e5b892  watchnexus-ultra-1.0.1-1-x86_64.pkg.tar.zst
+ad9ca8b4e598d4971033df5b2c74229ac4d132b500c58fe0ed2cdf9672e76d65  watchnexus-ultra-1.0.1-windows-x64.exe

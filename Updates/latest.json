@@ -1,0 +1,10 @@
+{
+  "latest_version": "1.0.1",
+  "release_date": "2026-08-09",
+  "release_notes": "Beta fixes: license bootstrap key, setup UX, Docker media paths, qBittorrent config, tray console hiding.",
+  "changelog": "https://watchnexus.ca/",
+  "download_url": "https://github.com/WN-Admin/WatchNexus/tree/main/Releases/v1.0.1",
+  "size_mb": 49.0,
+  "mandatory": false,
+  "min_version": "1.0.0"
+}
