@@ -1,0 +1,4 @@
+6539fe8299b05e169a03fc81bc6a8d85ed75862e49a7b7044bde6afa17e7fe30  watchnexus-standard_1.0.3_amd64.deb
+f133896d8dda0098de4b5dbde7653dcdf6cb40bb42e126050a210ccf4ea0085e  watchnexus-standard-1.0.3-1.x86_64.rpm
+93930e7dcc5b02005dff4220a227eb0a2824880f65195218f3059b5076246195  watchnexus-standard-1.0.3-1-x86_64.pkg.tar.zst
+cf54a50bf7e17d2019dce98c08ddfdf11032192d527308bd5e795cb17a58ad80  watchnexus-standard-1.0.3-windows-x64.exe
